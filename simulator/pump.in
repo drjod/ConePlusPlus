@@ -1,0 +1,27 @@
+
+
+aquifer
+1.e-4 1.e-5
+; transmissivity storativity
+
+
+well 
+50.01 50 0.001
+; x y pumpingRate
+
+;well 
+150.01 50 0.0005
+; x y pumpingRate
+
+
+domain
+500 300  2 2 
+; length_x length_y resolution_x resolution_y
+
+
+times
+2 43200 86400
+; numberOfTimes values
+
+
+end
