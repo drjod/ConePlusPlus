@@ -8,6 +8,7 @@
 CNode::CNode(double x[], std::vector <CWell*> wells)
 {
                     
+    
   for (int i=0; i < (int)wells.size(); i++)
     if (distance_squared (location, wells[i]->getLocation()) < 1.e-10 )                  
       std::cout << "WARNING - well " << i << " located at a node" << std::endl;  

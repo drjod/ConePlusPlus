@@ -23,6 +23,7 @@ class CNode
   
   void resetDrawdown(void);
   
+  
 };
 
 #endif
