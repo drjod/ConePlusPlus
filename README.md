@@ -1,5 +1,7 @@
 # ConePlusPlus
 
+![coneplusplus](https://cloud.githubusercontent.com/assets/12182426/9603318/39a1f5ba-50b0-11e5-9af7-626ec9d8546d.jpg)
+
 was used in the C++ lecture at CAU Kiel in 2015. It calculates drawdown around wells on a rectangular raster domain:
 
 ![domain](https://cloud.githubusercontent.com/assets/12182426/8676057/7f14d7e6-2a47-11e5-9e47-375a3e9b16bc.png)
@@ -27,7 +29,7 @@ The simulator produces the drawdown on a xy-raster. This is read by the Cone++Vi
 
 ##Implementation
 
-Three classes:
+Classes in the branch "lecture":
 
 ![uml](https://cloud.githubusercontent.com/assets/12182426/8676062/84bddb48-2a47-11e5-8f60-1c84a44ff5c0.png)
 
