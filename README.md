@@ -1,6 +1,6 @@
-# ConePlusPlus
-
 ![coneplusplus](https://cloud.githubusercontent.com/assets/12182426/9603318/39a1f5ba-50b0-11e5-9af7-626ec9d8546d.jpg)
+
+# ConePlusPlus
 
 was used in the C++ lecture at CAU Kiel in 2015. It calculates drawdown around wells on a rectangular raster domain:
 
